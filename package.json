@@ -1,0 +1,21 @@
+{
+  "name": "webnexus-website",
+  "version": "1.0.0",
+  "description": "WebNexus professional website for web, app, cloud, and AI chatbot services.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "webnexus",
+    "website-development",
+    "app-development",
+    "ai-chatbot",
+    "cloud-solutions"
+  ],
+  "author": "WebNexus",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

@@ -1,0 +1,28 @@
+WebNexus Website - Run and Hosting Notes
+
+Run on your computer:
+1. Open this folder.
+2. Double-click start-webnexus.bat.
+3. Open http://localhost:5600 in your browser.
+
+Command line run:
+1. npm.cmd install
+2. npm.cmd start
+3. Open http://localhost:5500 or the port shown in the terminal.
+
+Important for Google:
+Google cannot list a localhost website. To show this website on Google, upload this folder to public hosting first.
+
+Easy hosting options:
+- Render
+- Railway
+- Vercel
+- Netlify
+- Any Node.js shared hosting
+
+After hosting:
+1. Connect your domain.
+2. Update sitemap.xml and canonical URLs from https://www.webnexus.com to your real domain if different.
+3. Open Google Search Console.
+4. Add your domain property.
+5. Submit sitemap.xml.
